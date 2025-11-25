@@ -1,0 +1,7 @@
+{
+  "name": "Copy of LaserStrike Web25พยใช้ได้",
+  "description": "A modern, browser-based laser training system using OpenCV.js for target detection and shot analysis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
